@@ -1,0 +1,2 @@
+# Gomoku
+Sunrin Java Project
